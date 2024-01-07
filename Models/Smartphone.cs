@@ -28,7 +28,7 @@ namespace DesafioPOO.Models
         public void ReceberLigacao()
         {
             Console.WriteLine("Recebendo ligação...");
-        }
+        } 
     }
 
 }
