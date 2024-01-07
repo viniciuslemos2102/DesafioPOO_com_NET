@@ -13,7 +13,7 @@ namespace DesafioPOO.Models
             Numero = numero;
             Modelo = modelo;
             IMEI = imei;
-            Memoria = memoria;
+            Memoria = memoria; 
         }
 
         // Método abstrato que será implementado nas classes filhas
